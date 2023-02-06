@@ -46,7 +46,7 @@ reviewers can see the following files and directories:
 
 The directory `qemu-6.2.0` contains the source code of PEM.
 It is built on top of QEMU 6.2.0.
-Please refer to our [GitHub repository]() for detailed information about the source code.
+Please refer to our [GitHub repository](https://github.com/pempaper/pem-review) for detailed information about the source code.
 
 The directory `py-scripts` contains the preprocess and postprocess scripts used in PEM.
 It also contains the scripts for sampling random numbers used in the probabilistic path sampling algorithm 
