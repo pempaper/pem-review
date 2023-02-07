@@ -58,7 +58,7 @@ The directory `eval-dataset` and `aarch64-coreutils` contains the dataset used f
 
 ## Build PEM
 
-First, please make the following directories under `pem-re`
+First, please make the following directories under `pem-review`
 ```
 # Directories for building the x64 and aarch64 executable of PEM
 mkdir -p pem-x64
